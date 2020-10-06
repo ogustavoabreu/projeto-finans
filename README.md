@@ -1,2 +1,2 @@
 # projeto-finans
-Desenvolvimento de layout de um web app em bootstrap 4
+Desenvolvimento de site profissional em Bootstrap 4
